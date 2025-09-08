@@ -1,6 +1,6 @@
 # NicoleVigilant-DataScience-2025
-#### This is where you will find all my assignments and notebooks
+####This is where you will find all my assignments and notebooks for programming for data science
 
-#### Assignments/ Where to find assignments
-#### Completed/ Finished assignments go in this folder
-#### README.md/ This guide 
+####Assignments/ Assignments will be found here
+####Completed/ Finished assignments go in this folder
+####README.md/ This guide 
